@@ -1,5 +1,5 @@
 <h2 align="center"> Placement Cracker Application </h2>
 
 <p align="left">
-	<img src="https://ibb.co/pyKpyrW" />
+	<img src="https://i.postimg.cc/WpKGHBSQ/ic-launcher-adaptive-fore.png" />
 	</p>
