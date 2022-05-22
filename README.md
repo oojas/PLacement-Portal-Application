@@ -8,3 +8,10 @@
 
 ## Problem Statement
 While majority of the tier 1 and tier 2 college students in India have adequate amount of exposure to choose what they want to pursue and how they want to pursue it, there is still a majority of tier 3 college students who don't get to have this advantage. With less time on learning and more time on struggling to find a path to get into a tech company, these students not only need guidance but resources which are either affordable or mostly free.
+
+## My Solution
+1. Our Application being in the only one in itself helps in solving this complex use case while providing necessary guidance to the students necessary for their college, skills and overall exposure. 
+2. While being completely automated in its data flow, our application breaks the barrier of the admin student concept. The whole application is maintained by the student. 
+3. Our application believes in gathering less and giving more principle. The only details a student has to add is its college name, academic year and register number. 
+4. With this a student will be able to access jobs, internships, external events and eligible courses for every specialization. The target of this project is to develop a system that can be used by placement cell of a college. 
+5. The purpose is to design a system that provides functionalities to perform the activities related to placement services.
